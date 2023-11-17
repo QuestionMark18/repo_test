@@ -1,8 +1,5 @@
 
 abc
 
-day la nhanh phu
 
-nhanh main
-
-12345
+day la nhanh main
